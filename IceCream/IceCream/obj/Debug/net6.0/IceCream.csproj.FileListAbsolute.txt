@@ -1,0 +1,15 @@
+/home/jas/Documents/Aarhus/SoftwareDesign/exercises/SoftwareDesignProject/IceCream/IceCream/bin/Debug/net6.0/IceCream
+/home/jas/Documents/Aarhus/SoftwareDesign/exercises/SoftwareDesignProject/IceCream/IceCream/bin/Debug/net6.0/IceCream.deps.json
+/home/jas/Documents/Aarhus/SoftwareDesign/exercises/SoftwareDesignProject/IceCream/IceCream/bin/Debug/net6.0/IceCream.runtimeconfig.json
+/home/jas/Documents/Aarhus/SoftwareDesign/exercises/SoftwareDesignProject/IceCream/IceCream/bin/Debug/net6.0/IceCream.dll
+/home/jas/Documents/Aarhus/SoftwareDesign/exercises/SoftwareDesignProject/IceCream/IceCream/bin/Debug/net6.0/IceCream.pdb
+/home/jas/Documents/Aarhus/SoftwareDesign/exercises/SoftwareDesignProject/IceCream/IceCream/obj/Debug/net6.0/IceCream.csproj.AssemblyReference.cache
+/home/jas/Documents/Aarhus/SoftwareDesign/exercises/SoftwareDesignProject/IceCream/IceCream/obj/Debug/net6.0/IceCream.GeneratedMSBuildEditorConfig.editorconfig
+/home/jas/Documents/Aarhus/SoftwareDesign/exercises/SoftwareDesignProject/IceCream/IceCream/obj/Debug/net6.0/IceCream.AssemblyInfoInputs.cache
+/home/jas/Documents/Aarhus/SoftwareDesign/exercises/SoftwareDesignProject/IceCream/IceCream/obj/Debug/net6.0/IceCream.AssemblyInfo.cs
+/home/jas/Documents/Aarhus/SoftwareDesign/exercises/SoftwareDesignProject/IceCream/IceCream/obj/Debug/net6.0/IceCream.csproj.CoreCompileInputs.cache
+/home/jas/Documents/Aarhus/SoftwareDesign/exercises/SoftwareDesignProject/IceCream/IceCream/obj/Debug/net6.0/IceCream.dll
+/home/jas/Documents/Aarhus/SoftwareDesign/exercises/SoftwareDesignProject/IceCream/IceCream/obj/Debug/net6.0/refint/IceCream.dll
+/home/jas/Documents/Aarhus/SoftwareDesign/exercises/SoftwareDesignProject/IceCream/IceCream/obj/Debug/net6.0/IceCream.pdb
+/home/jas/Documents/Aarhus/SoftwareDesign/exercises/SoftwareDesignProject/IceCream/IceCream/obj/Debug/net6.0/IceCream.genruntimeconfig.cache
+/home/jas/Documents/Aarhus/SoftwareDesign/exercises/SoftwareDesignProject/IceCream/IceCream/obj/Debug/net6.0/ref/IceCream.dll
