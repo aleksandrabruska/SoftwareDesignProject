@@ -3,7 +3,6 @@ using IceCream;
 
 IceCream.IceCream dessert = new VanillaIceCream();
 
-VanillaIceCream vanillaIC = new VanillaIceCream();
 dessert = new Nuts(dessert);
 dessert = new WhippedCream(dessert);
 

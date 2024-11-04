@@ -9,9 +9,7 @@ public class StrawberryIceCream : IceCream
     
     public override string getLevelName(int level)
     {
-        string lv = "";
-        for (int i = 0; i < level; i++)
-            lv += " = ";
+        string lv = getLevelIndicator(level);
         return (lv + "Strawberry Ice cream");
     }
     
